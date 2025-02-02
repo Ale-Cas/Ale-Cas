@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**Ale-Cas/Ale-Cas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer at [InvestSuite](https://www.investsuite.com/), based in Italy, with a passion for fintech, algorithmic trading, and quantitative finance.
+I primarily work in [gitlab](https://about.gitlab.com/) on proprietary software that manages millions of users and billions of dollars, focusing on scalability, performance, and reliability.
+When I can, I try to spend some of my free time contributing to open-source projects.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** Python, Go, Typescript, Scala, Dart
+- **Frameworks & Tools:** FastAPI, React, Flutter, MongoDB, PostgreSQL, Kafka, Docker, AWS, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open-source Projects 
+- I developed a lightweight library called [querytyper](https://github.com/investsuite/querytyper) to build MongoDB queries using [pydantic](https://github.com/pydantic/pydantic) models
+- while I was working at [Alpaca Markets](https://alpaca.markets/) I contributed to the development of [alpaca-py](https://alpaca.markets/sdks/python/) mainly using my [corporate profile](https://github.com/alessiocastrica?tab=overview&from=2023-12-01&to=2023-12-31) and sketched out an example broker integration [backend](https://github.com/Ale-Cas/alpaca-partner-backend) and [frontend](https://github.com/Ale-Cas/alpaca-broker-react)
+- I also worked on [optitrader](https://github.com/Ale-Cas/optitrader) a [streamlit](https://streamlit.io/) dashboard that lets you optimize a portfolio of US stocks and invest on it using [Alpaca's Trading API](https://alpaca.markets/algotrading)
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/alessio-castrica-784086151/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ale-Cas)](https://github.com/anuraghazra/github-readme-stats)
