@@ -16,4 +16,5 @@ When I can, I try to spend some of my free time contributing to open-source proj
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/alessio-castrica-784086151/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ale-Cas)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ale-Cas&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Cas&theme=dark&hide_border=true&layout=compact&hide=html&exclude_repo=MasterDataAnalytics)](https://github.com/anuraghazra/github-readme-stats)
