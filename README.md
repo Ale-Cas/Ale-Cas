@@ -1,7 +1,7 @@
 ## Hi 👋
 
-I'm a software engineer at [InvestSuite](https://www.investsuite.com/), based in Italy, with a passion for fintech, algorithmic trading, and quantitative finance.
-I primarily work in [gitlab](https://about.gitlab.com/) on proprietary software that manages millions of users and billions of dollars, focusing on scalability, performance, and reliability.
+I'm senior software engineer at [Qonto](https://qonto.com/) AI Lab, based in Italy, with a passion for fintech, algorithmic trading, and quantitative finance.
+I primarily work on proprietary software that manages millions of users and billions of dollars, focusing on scalability, performance, and reliability.
 When I can, I try to spend some of my free time contributing to open-source projects.
 
 ## Tech Stack
