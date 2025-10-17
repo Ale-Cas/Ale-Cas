@@ -9,8 +9,8 @@ When I can, I try to spend some of my free time contributing to open-source proj
 - **Frameworks & Tools:** FastAPI, React, Flutter, MongoDB, PostgreSQL, Kafka, Docker, AWS, and more
 
 ### Open-source Projects 
-- I developed a lightweight library called [querytyper](https://github.com/investsuite/querytyper) to build MongoDB queries using [pydantic](https://github.com/pydantic/pydantic) models
 - while I was working at [Alpaca Markets](https://alpaca.markets/) I contributed to the development of [alpaca-py](https://alpaca.markets/sdks/python/) mainly using my [corporate profile](https://github.com/alessiocastrica?tab=overview&from=2023-12-01&to=2023-12-31) and sketched out an example broker integration [backend](https://github.com/Ale-Cas/alpaca-partner-backend) and [frontend](https://github.com/Ale-Cas/alpaca-broker-react)
+- At [InvestSuite](https://www.investsuite.com/) I developed a lightweight library called [querytyper](https://github.com/investsuite/querytyper) to build MongoDB queries using [pydantic](https://github.com/pydantic/pydantic) models
 - I also worked on [optitrader](https://github.com/Ale-Cas/optitrader) a [streamlit](https://streamlit.io/) dashboard that lets you optimize a portfolio of US stocks and invest on it using [Alpaca's Trading API](https://alpaca.markets/algotrading)
 
 ### Connect
